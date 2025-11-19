@@ -1,0 +1,4 @@
+azure-functions
+pymssql==2.2.7
+requests
+azure-storage-blob
